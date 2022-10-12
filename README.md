@@ -23,7 +23,11 @@ Dependencies used in project
 > fluttertoast: ^8.0.9
 
 
-![Image 1](md/1.png "Title")
-![Image 2](md/2.png "Title")
-![Image 3](md/3.png "Title")
-![Image 4](md/4.png "Title")
+<!-- ![Image 1](md/1.png "Title" = 200x300) -->
+<img src="md/1.png" width="200" alt="Image 1">
+
+<img src="md/2.png" width="200" alt="Image 2">
+
+<img src="md/3.png" width="200" alt="Image 3">
+
+<img src="md/4.png" width="200" alt="Image 4">
